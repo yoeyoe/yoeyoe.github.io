@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yoeyoe.github.io/sitemap.xml 
